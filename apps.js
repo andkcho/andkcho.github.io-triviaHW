@@ -173,4 +173,4 @@ var game = {
 			$("#subwrapper").append("<h3> Unanswered: " + (questions.length-(this.incorrect+this.correct)) + "</h3>");
 		}
 
-}# andkcho.github.io-triviaHW
+}
